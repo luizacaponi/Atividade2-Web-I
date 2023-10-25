@@ -69,17 +69,17 @@ section{
 .img-main{
 
     display: flex;
-    width: 100%;
+    width: 70%;
     margin: 100px;
     margin-right: 600px;
     height: auto;
 }
 
 .preco-img{
-    max-width: 30%;
+    max-width: 10%;
     height: auto;
     margin-top: -190px;
-    margin-left: 70px;
+    margin-left: 90px;
 }
 
 .sobre-sec1 h3{
@@ -94,7 +94,7 @@ section{
     text-align: center;
     height: 35px;
     margin-top: -30px;
-    margin-left: 550px;
+    margin-left: 750px;
 }
 
 
@@ -142,6 +142,11 @@ p{
 .card p{
     text-align: center;
 
+}
+.card figure{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .card button {
